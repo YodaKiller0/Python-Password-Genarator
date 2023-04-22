@@ -3,7 +3,7 @@ import random
 chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*(`)"
 
 while 1:
-    password_len = int(input("What lenght would you like your password to be : "))
+    password_len = int(input("What length would you like your password to be : "))
     password_count = int(input("How many passwords would you like : "))
     for x in range(0,password_count):
         password = ""
