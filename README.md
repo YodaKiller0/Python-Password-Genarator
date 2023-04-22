@@ -4,9 +4,10 @@ This Python code generates random passwords with a user-defined length and quant
 
 # What I Learned
 
-* import
-* while
-* int
-* range
-* for
-* random.choice
+```python
+import
+while
+int
+range
+for
+random.choice
