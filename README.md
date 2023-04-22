@@ -13,7 +13,7 @@ for
 random.choice
 ```
 
-# To install this software, follow these steps:<br>
+# To run the file, follow these steps:<br>
 1. Open Python Password Genarator
 2. Go inside the dist folder
 3. Double click the password_genarator
