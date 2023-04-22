@@ -1,0 +1,4 @@
+How to run the Password Genarator
+
+* Go inside the dist folder
+* Then double click the password_genarator file and it will run
