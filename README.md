@@ -11,3 +11,21 @@ int
 range
 for
 random.choice
+```
+
+# To install this software, follow these steps:<br>
+1. Open Python Password Genarator
+2. Go inside the dist folder
+3. Double click the password_genarator
+4. Then It will open your terminal
+5. Then type the length of your password and press enter
+ Example ⬇️
+```python
+What length would you like your password to be : 16     //enter the length of your password
+```
+6. Next type how many password you like and press enter
+ Example ⬇️
+```python
+How many passwords would you like : 5     //number of passwords you like
+```
+7.Congratulation you have genarated random passwords🥳
